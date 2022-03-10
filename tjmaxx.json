@@ -1,16 +1,16 @@
 {
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner":"ca-app-pub-5372286114100637/9917052730",
+	"admob_inter":"ca-app-pub-5372286114100637/4943965649",
 
-	"APP_KEY": "137ec96a9",
+	"APP_KEY": "13c93aa49",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"APPLOVIN_BANNER": "4b077c7280cd3698",
+	"APPLOVIN_BANNER": "5b6381608163d1e5",
 	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
 
-	"whichAds": 0,
+	"whichAds": 1,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -18,12 +18,12 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Start Tjmaxx",
-	"BUTTON_NAME_2": "Shop Now",
+	"BUTTON_NAME_1": "Start TKmaxx",
+	"BUTTON_NAME_2": "Begin Shopping",
 
-	"URL" : "https://tjmaxx.tjx.com/",
+	"URL" : "https://www.tkmaxx.com/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":false
+	"isAdsActivated2":true
 
 }
