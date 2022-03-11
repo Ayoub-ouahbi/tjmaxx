@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "Start Tjmaxx",
 	"BUTTON_NAME_2": "Shop Now",
 
-	"URL" : "https://tjmaxx.tjx.com/",
+	"URL" : "",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":false
